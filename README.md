@@ -1,4 +1,4 @@
-![Bannière](https://github.com/YannickMatongo/image/blob/main/Designer%20(1).png?raw=true)
+![Bannière]()
 # 👋 Bonjour, je suis Yannick
 
 🌟 **Développeur en Typescript, Symfony, Php Java, langage C et C++, Python  **
