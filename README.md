@@ -15,8 +15,8 @@
 ---
 
 ### 📈 Mes statistiques GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&layout=compact&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=YannickMatongo&show_icons=true&theme=radical)
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannickMatongo&layout=compact&theme=radical)
 
 ---
 
