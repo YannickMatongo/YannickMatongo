@@ -1,4 +1,4 @@
-![Bannière]()
+
 # 👋 Bonjour, je suis Yannick
 
 🌟 **Développeur en Typescript, Symfony, Php Java, langage C et C++, Python  **
@@ -10,13 +10,6 @@
 - 🚀 Je travaille sur [vos projets ou objectifs actuels].
 - 🌱 J'explore des sujets tels que [technologies ou concepts].
 - 🛠️ Technologies que j’utilise : [liste des outils/langages].
-
-
----
-
-### 📈 Mes statistiques GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=YannickMatongo&show_icons=true&theme=radical)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=YannickMatongo&layout=compact&theme=radical)
 
 ---
 
