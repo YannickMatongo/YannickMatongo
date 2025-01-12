@@ -1,15 +1,14 @@
 
 # 👋 Bonjour, je suis Yannick
 
-🌟 **Développeur en Typescript, Symfony, Php Java, langage C et C++, Python  **
+🌟 **Développeur en Javascript(typescript, C & C++, Python, PHP....  **
 
 ---
 
 ### 📖 À propos de moi
-- 🎓 Actuellement en apprentissage de [les langages ou technologies que vous apprenez].
-- 🚀 Je travaille sur [vos projets ou objectifs actuels].
-- 🌱 J'explore des sujets tels que [technologies ou concepts].
-- 🛠️ Technologies que j’utilise : [liste des outils/langages].
+- 🎓 Actuellement en apprentissage de C, algorithmes, et autres technologies enseignées à l'école 42.
+- 🚀 Je travaille sur des projets variés pour mes clients, combinant développement web et mobile.
+- 🌱 J'explore des sujets tels que l'optimisation du code, les systèmes embarqués, et les architectures modernes.
 
 ---
 
