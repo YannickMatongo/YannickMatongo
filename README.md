@@ -1,21 +1,21 @@
 
-# 👋 Bonjour, je suis Yannick
+# 👋 Hello, I'm Yannick
 
-🌟 **Développeur en Javascript(typescript, C & C++, Python, PHP....  **
-
----
-
-### 📖 À propos de moi
-- 🎓 Actuellement en apprentissage de C, algorithmes, et autres technologies enseignées à l'école 42.
-- 🚀 Je travaille sur des projets variés pour mes clients, combinant développement web et mobile.
-- 🌱 J'explore des sujets tels que l'optimisation du code, les systèmes embarqués, et les architectures modernes.
+🌟 **Developer in Java, Typescript, C, C++, Python, PHP...**
 
 ---
 
-### 📫 Contactez-moi
-- 📧 Email : yannick.matongo03@gmail.com
-- 🌐 Portfolio : 
-- 🔗 LinkedIn : https://www.linkedin.com/in/yannick-matongo-09851b206/
+### 📖 About Me
+- 🎓 Currently learning C, algorithms, and other technologies taught at 42 school.
+- 🚀 I work on various projects for my clients, combining web and mobile development.
+- 🌱 I'm exploring topics such as code optimization, embedded systems, and modern architectures.
+
+---
+
+### 📫 Contact Me
+- 📧 Email: yannick.matongo03@gmail.com
+- 🌐 Portfolio: https://myportfolio-2024.vercel.app/
+- 🔗 LinkedIn: https://www.linkedin.com/in/yannick-matongo-09851b206/
   
 
 
